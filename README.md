@@ -2,7 +2,7 @@
 
 A multi-tool tabletop gaming application designed to safeguard the balance of your realm and simplify the ancient tomes of law. This repository houses the **House Rule Oracle** for rule analysis and **The Scribe** for rulebook simplification.
 
-🔗 **Live Demo:** [tabletoporacle.streamlit.app](https://tabletoporacle.streamlit.app/)
+🔗 **Live Demo:** [tabletoporacle.streamlit.app](https://tabletop-oracle.streamlit.app/)
 
 ![Background](background.png)
 
